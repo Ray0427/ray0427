@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋 I'm Ray
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ray0427&show_icons=true&count_private=true)](https://github.com/ray0427/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ray0427&layout=compact&hide=c%2B%2B,c,html)](https://github.com/ray0427/github-readme-stats) -->
+
 
 <!--
 **Ray0427/ray0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
